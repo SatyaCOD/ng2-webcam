@@ -11,10 +11,31 @@
         "type": "range"
       },
       "C:\\Users\\Satya\\Ang_2\\Solaris-Registration-Form-ng2webcam"
+    ],
+    [
+      {
+        "raw": "github:SatyaCOD/ng2-webcam-Typescript",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "github:SatyaCOD/ng2-webcam-Typescript",
+        "spec": "github:satyacod/ng2-webcam-Typescript",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:satyacod/ng2-webcam-Typescript.git",
+          "sshUrl": "git+ssh://git@github.com/satyacod/ng2-webcam-Typescript.git",
+          "httpsUrl": "git+https://github.com/satyacod/ng2-webcam-Typescript.git",
+          "gitUrl": "git://github.com/satyacod/ng2-webcam-Typescript.git",
+          "shortcut": "github:satyacod/ng2-webcam-Typescript",
+          "directUrl": "https://raw.githubusercontent.com/satyacod/ng2-webcam-Typescript/master/package.json"
+        }
+      },
+      "C:\\Users\\Satya\\Documents\\Solaris-Registration-Form"
     ]
   ],
-  "_from": "ng2-webcam@>=1.2.4 <2.0.0",
-  "_id": "ng2-webcam@1.2.4",
+  "_from": "satyacod/ng2-webcam-Typescript",
+  "_id": "ng2-webcam@1.2.8",
   "_inCache": true,
   "_location": "/ng2-webcam",
   "_nodeVersion": "7.0.0",
@@ -29,23 +50,32 @@
   "_npmVersion": "3.10.8",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "ng2-webcam@^1.2.4",
+    "raw": "github:SatyaCOD/ng2-webcam-Typescript",
     "scope": null,
-    "escapedName": "ng2-webcam",
-    "name": "ng2-webcam",
-    "rawSpec": "^1.2.4",
-    "spec": ">=1.2.4 <2.0.0",
-    "type": "range"
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "github:SatyaCOD/ng2-webcam-Typescript",
+    "spec": "github:satyacod/ng2-webcam-Typescript",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:satyacod/ng2-webcam-Typescript.git",
+      "sshUrl": "git+ssh://git@github.com/satyacod/ng2-webcam-Typescript.git",
+      "httpsUrl": "git+https://github.com/satyacod/ng2-webcam-Typescript.git",
+      "gitUrl": "git://github.com/satyacod/ng2-webcam-Typescript.git",
+      "shortcut": "github:satyacod/ng2-webcam-Typescript",
+      "directUrl": "https://raw.githubusercontent.com/satyacod/ng2-webcam-Typescript/master/package.json"
+    }
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ng2-webcam/-/ng2-webcam-1.2.4.tgz",
-  "_shasum": "950cfcf326a91bf2b32d34a092e431b0f61cc1e6",
+  "_resolved": "git://github.com/satyacod/ng2-webcam-Typescript.git#3a3f341cd619a521cb4704f19e1748c561e3b941",
+  "_shasum": "63e1510799a0c285dc4729731e2d5d2d372c6280",
   "_shrinkwrap": null,
-  "_spec": "ng2-webcam@^1.2.4",
-  "_where": "C:\\Users\\Satya\\Ang_2\\Solaris-Registration-Form-ng2webcam",
+  "_spec": "github:SatyaCOD/ng2-webcam-Typescript",
+  "_where": "C:\\Users\\Satya\\Documents\\Solaris-Registration-Form",
   "author": {
     "name": "Artur Basak",
     "email": "artur.basak@instinctools.ru"

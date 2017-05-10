@@ -1,6 +1,6 @@
 import { Component, OnInit, AfterViewInit, ElementRef, Input } from '@angular/core';
 import { DomSanitizer } from '@angular/platform-browser';
-import FallbackDispatcher from './fallback/ts/fallback.dispatcher';
+//import FallbackDispatcher from './fallback/ts/fallback.dispatcher';
 
 /**
  * Component options structure interface
@@ -43,8 +43,8 @@ interface MediaDevice {
 
 </div>
 `
-})
-class WebCamComponent implements OnInit, AfterViewInit {
+}) 
+export class WebCamComponent implements OnInit, AfterViewInit {
   public videoSrc: any;
   public isSupportWebRTC: boolean;
   public isFallback: boolean;
@@ -275,5 +275,3 @@ class WebCamComponent implements OnInit, AfterViewInit {
     console.error('WebCam not supported');
   }
 }
-
-export default WebCamComponent;

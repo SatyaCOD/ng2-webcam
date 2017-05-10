@@ -23,7 +23,7 @@ interface EventCallbacks {
 /**
  * Adobe flash fallback dispatcher
  */
-class FallbackDispatcher {
+export class FallbackDispatcher {
 
   private cam: ASCamera;
 
@@ -82,4 +82,4 @@ class FallbackDispatcher {
   }
 }
 
-export default FallbackDispatcher;
+//export default FallbackDispatcher;
