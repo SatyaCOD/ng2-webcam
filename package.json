@@ -1,11 +1,12 @@
 {
-  "name": "ng2-webcam-Typescript",
+  "name": "ng2-webcam",
   "version": "1.2.4",
   "description": "Angular2 webcam component. Based on MediaDevices and getUserMedia.js ",
   "main": "index.ts",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.js --hot --progress --colors --port 3000",
     "test": "karma start",
+    "build:dist": "ngc --declaration --project lib",
     "prod1" : "npm run prod",
     "lint": "tslint \"lib/**/*.ts\"",
     "e2e": "./node_modules/protractor/bin/webdriver-manager update && protractor"
@@ -17,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SatyaCOD/ng2-webcam-Typescript"
+    "url": "https://github.com/SatyaCOD/ng2-webcam"
   },
   "keywords": ["ng2", "angular2", "getusermedia","webcam","video","gum"],
   "author": {
