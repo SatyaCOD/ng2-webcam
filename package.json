@@ -5,7 +5,7 @@
         "raw": "ng2-webcam@^1.2.4",
         "scope": null,
         "escapedName": "ng2-webcam",
-        "name": "ng2-webcam",
+        "name": "ng2-webcam-Typescript",
         "rawSpec": "^1.2.4",
         "spec": ">=1.2.4 <2.0.0",
         "type": "range"
