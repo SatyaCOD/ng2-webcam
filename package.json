@@ -47,6 +47,9 @@
     "name": "archik408",
     "email": "artur.basak@instinctools.ru"
   },
+  "scripts": {
+     "build:dist": "ngc --declaration --project lib" 
+   }, 
   "_npmVersion": "3.10.8",
   "_phantomChildren": {},
   "_requested": {
