@@ -1,7 +1,6 @@
 import { Component, OnInit, AfterViewInit, ElementRef, Input } from '@angular/core';
 import { DomSanitizer } from '@angular/platform-browser';
 //import FallbackDispatcher from './fallback/ts/fallback.dispatcher';
-
 /**
  * Component options structure interface
  */
